@@ -1,2 +1,2 @@
-# demo
-This is only for testing 
+# demo repo
+It is only for testing.
